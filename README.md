@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I am @il-cande
+- @skelloapp :garlic: team
 <!--
 **il-cande/il-cande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
